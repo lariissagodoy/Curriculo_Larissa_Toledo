@@ -1,0 +1,26 @@
+.foto-perfil{border-radius: 100%;
+    max-width: 150px;
+    border: 1px solid black
+
+}
+
+body{
+    background-color: rgb(247, 243, 245);
+    font-family: 'Roboto', sans-serif;
+}
+
+.div-A4 {
+    border: 1px black solid;
+    padding: 10px;
+    margin: 10px;
+    width: 600px;
+    height: 800px;
+}
+
+.info-basicas{
+    float: right;
+    width: 350px;
+}
+
+
+
